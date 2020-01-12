@@ -1,0 +1,9 @@
+<% if (lang == :fr) %>
+  <% link_to '/en', class: 'lang' do %>
+    <span>EN</span>
+  <% end %>
+<% else %>
+  <% link_to '../', class: 'lang' do %>
+    <span>FR</span>
+  <% end %>
+<% end %>

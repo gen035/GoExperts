@@ -35,11 +35,15 @@ page '/*.txt', layout: false
 # Methods defined in the helpers block are available in templates
 # https://middlemanapp.com/basics/helper-methods/
 
-# helpers do
-#   def some_helper
-#     'Helping'
-#   end
-# end
+helpers do
+  def i18n_path(path, options = {})
+    lang = options[:language] ? options[:language] : I18n.locale.to_s
+    # English is mounted at root
+    lang = '' if lang == :fr
+    # Replace multiple slashes with one
+    "/#{lang}/#{path}".gsub(/\/+/, '/')
+  end
+end
 
 # Build-specific configuration
 # https://middlemanapp.com/advanced/configuration/#environment-specific-settings

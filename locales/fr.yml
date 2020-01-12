@@ -1,4 +1,26 @@
 fr:
+  paths:
+    urgence: urgence
+    securite-incendie: securite-incendie
+    protection-physique: protection-physique
+    gestion: gestion
+    securite-information: securite-information
+  nav:
+    - item:
+      text: Continuité des affaires et mesures d’urgence
+      link: urgence
+    - item:
+      text: Sécurité Incendie
+      link: securite-incendie
+    - item:
+      text: Protection Physique
+      link: protection-physique
+    - item:
+      text: Gestion de la sécurité
+      link: gestion
+    - item:
+      text: Sécurité de l’information
+      link: securite-information
   pages:
     index:
       title: Title francais

@@ -1,0 +1,9 @@
+<nav>
+  <ul class="nav__list">
+    <% t('nav').each_with_index do |item, index| %>
+      <li style="--animation-order:<%= index %>">
+        <%= link_to item[:text], i18n_path(item[:link], language: lang) %>
+      </li>
+    <% end %>
+  </ul>
+</nav>

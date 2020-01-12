@@ -1,0 +1,53 @@
+.menu
+  background-color: $darkgrey
+  display: flex
+  height: 50px
+  left: 0
+  width: 350px
+  position: absolute
+  top: 0
+  z-index: 1
+
+.menu__logo
+  height: 50px
+  padding: 10px
+  width: 300px
+  svg
+    height: 30px
+    .go
+      fill: $white
+
+.menu__trigger
+  background-color: $blue
+  color: $white
+  cursor: pointer
+  font-size: 24px
+  height: 50px
+  position: relative
+  transition: background-color 125ms
+  width: 50px
+  i
+    color: $white
+    left: 50%
+    position: absolute
+    transform: translateY(-50%) translateX(-50%)
+    transition: opacity 125ms, color 125ms
+    top: 50%
+
+.menu__open
+  opacity: 1
+
+.menu__close
+  opacity: 0
+
+.is-menu-opened
+  .menu__trigger
+    background-color: $white
+    i
+      color: $blue
+
+  .menu__open
+    opacity: 0
+    
+  .menu__close
+    opacity: 1

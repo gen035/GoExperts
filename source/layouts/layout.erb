@@ -11,6 +11,9 @@
     <%= javascript_include_tag "site" %>
   </head>
   <body>
+    <%= partial "layouts/lang" %>
+    <%= partial "layouts/menu" %>
+    <%= partial "layouts/nav" %>
     <%= yield %>
     <%= partial "layouts/footer" %>
   </body>

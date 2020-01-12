@@ -5,6 +5,22 @@ en:
     protection-physique: physical-protection
     gestion: management
     securite-information: information-security
+  nav:
+    - item:
+      text: Bussiness continuity and emergency preparedness.
+      link: emergency
+    - item:
+      text: Fire protection
+      link: fire-protection
+    - item:
+      text: Physical Protection
+      link: physical-protection
+    - item:
+      text: Security Management
+      link: management
+    - item:
+      text: Information Security
+      link: information-security
   pages:
     index:
       title: English title
