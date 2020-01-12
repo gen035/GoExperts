@@ -1,11 +1,19 @@
 <footer>
   <div class="container">
     <div class="row align-items-center">
-      <div class="col-md-4 footer__logo">
+      <div class="col-md-4 footer__col footer__logo" style="--animation-order:2">
         <%= partial "layouts/logo" %>
       </div>
-      <div class="col-md-4 footer__services">SERVICES</div>
-      <div class="col-md-4 footer__contact">
+      <div class="col-md-4 footer__col footer__services" style="--animation-order:1;">
+        <ul>
+          <% t('nav').each_with_index do |item, index| %>
+            <li style="--animation-order:<%= index %>">
+              <%= link_to item[:text], i18n_path(item[:link], language: lang) %>
+            </li>
+          <% end %>
+        </ul>
+      </div>
+      <div class="col-md-4 footer__col footer__contact" style="--animation-order:2">
         <ul>
           <li>
             <a href="mailto:email@email.com">email@email.com</a>

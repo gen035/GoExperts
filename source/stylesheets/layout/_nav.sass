@@ -1,7 +1,9 @@
 nav
   position: absolute
   top: 50px
-  z-index: 1
+  z-index: -1
+  .is-menu-opened &
+    z-index: 1
 
 .nav__list
   width: 350px
@@ -11,17 +13,20 @@ nav
     color: $lightergrey
     cursor: pointer
     opacity: 0
-    padding: 20px
     transition: background-color 250ms, color 250ms, opacity 250ms
     .is-menu-opened &
-      animation: slidein 200ms ease-out;
-      animation-delay: calc(var(--animation-order) * 100ms);
-      animation-fill-mode: both;
-      animation-timing-function: ease-in-out;
+      animation: slidein 200ms ease-out
+      animation-delay: calc(var(--animation-order) * 100ms)
+      animation-fill-mode: both
+      animation-timing-function: ease-in-out
       opacity: 1
     &:hover
       background-color: $blue
       color: $white
+
+    a
+      display: block
+      padding: 20px
 
 @keyframes slidein 
   0% 

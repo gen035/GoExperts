@@ -23,12 +23,22 @@ fr:
       link: securite-information
   pages:
     index:
-      title: Title francais
-      text: Text francais - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque porta lorem in dolor bibendum malesuada. Suspendisse aliquam et orci in sollicitudin.
+      title: Gestion des services de sécurité et mesures d’urgence
+      text: Nos services pourront s’adapté à votre structure opérationnelle avec le plus grand soin et en toute discrétion absolue, notre disponibilité et notre engagement fait de nous des experts dans notre service de gestion.
       content:
         h6: En apprendre plus
         h2: À propos de GoExperts
         text: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque porta lorem in dolor bibendum malesuada. Suspendisse aliquam et orci in sollicitudin. Curabitur ex tortor, fermentum ac neque in, laoreet tempor mi. Quisque fermentum in nisl quis porta. Praesent sollicitudin quam sit amet odio suscipit, non aliquet dui luctus. Phasellus rhoncus, diam a eleifend gravida, odio nulla venenatis massa, sed dapibus urna odio ut felis.
+        management: Urgence Proteck plus, et ses experts vous offrent les services de remplacements temporaire ou permanente a long terme, concernant la gestion des services de sécurité. Nous adaptons nos offres a votre société, nos experts peuvent combler le remplacement d’une personne ressource pour des raisons de;
+        management_list: 
+          - Absence maladie long terme;
+          - Absence période de maternité;
+          - Remplacement du chef des opérations ou du service du a un congédiement;
+          - Congé sans solde;
+          - Départ à la retraite;
+          - Études des services offerts auprès de votre clientèle et usagers;
+          - Gestion du contrôle de vos accès;
+          - Gestion de vos systèmes de caméras;
     urgence:
       title: Continuité des affaires et mesures d’urgence.
       background: urgence.jpeg
