@@ -1,0 +1,72 @@
+.index__header
+  background: url('https://images.unsplash.com/photo-1499750310107-5fef28a66643?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80') no-repeat center
+  background-size: cover
+  color: white
+  position: relative
+  height: 80vh
+  width: 100%
+
+.index__header--overlay
+  background-color: $blue
+  height: 100%
+  left: 0
+  opacity: 0.4
+  position: absolute
+  top: 0
+  width: 100%
+
+.index__header--content
+  position: absolute;
+  top: 50%
+  transform: translateY(-50%)
+
+.index__header--title
+  font-size: 48px
+
+.index__header--text
+  background-color: $darkgrey
+  font-size: 18px
+  margin-top: 32px
+  max-width: 500px
+  padding: 5px
+  width: 100%
+
+.index__phone
+  background-color: $white
+  border-radius: 8px
+  box-shadow: 0px 0px 80px 0px rgba(63,64,63,0.35);
+  display: inline-block
+  padding: 20px 40px
+  position: absolute
+  right: 0
+  transform: translateY(-50%)
+  i
+    color: $blue
+    font-size: 32px
+  span
+    font-size: 18px
+    margin-left: 10px
+
+.index__first
+  padding: 60px 0
+
+.index__content
+  position: relative
+  &::after
+    background-color: rgba(49, 137, 181, 0.1)
+    content: ''
+    height: 150%
+    padding: 30px
+    position: absolute
+    right: -30px
+    top: -25%
+    width: 150%
+  h6
+    margin-bottom: 10px
+
+  h2
+    font-size: 24px
+    margin-bottom: 18px
+
+  p
+    line-height: 1.2
