@@ -2,3 +2,40 @@
   background-color: $white
   .container
     position: relative
+  &--gap
+    padding: 60px 0
+
+.page__header
+  background-size: cover
+  background-position: center
+  color: $white
+  height: 60vh
+  position: relative
+  width: 100%
+
+.page__header--overlay
+  background-color: $darkgrey
+  background-position: center
+  height: 100%
+  left: 0
+  opacity: 0.4
+  position: absolute
+  top: 0
+  width: 100%
+
+.page__header--content
+  position: absolute;
+  top: 50%
+  transform: translateY(-50%)
+
+.page__header--title
+  font-size: 36px
+  text-align: center
+
+.page__list
+  margin-top: 30px
+  ul
+    margin-left: 18px
+    li
+      list-style-type: disc
+      margin: 5px 0

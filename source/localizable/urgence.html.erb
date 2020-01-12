@@ -1,0 +1,19 @@
+<%= partial "layouts/page_header", :locals => {:title => t('pages.urgence.title'), :image => t('pages.urgence.background')} %>
+<section class="page--gap">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-8 offset-md-2">
+        <%= t('pages.urgence.content') %>
+      </div>
+    </div>
+    <div class="row page__list">
+      <div class="col-md-8 offset-md-2">
+        <ul>
+          <% t('pages.urgence.list').each do |item| %>
+            <li><%= item %></li>
+          <% end %>
+        </ul>
+      </div>
+    </div>
+  </div>
+</section>

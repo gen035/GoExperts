@@ -1,2 +1,86 @@
 en:
-  title: "test"
+  paths:
+    urgence: emergency
+    securite-incendie: fire-protection
+    protection-physique: physical-protection
+    gestion: management
+    securite-information: information-security
+  pages:
+    index:
+      title: English title
+      text: English text - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque porta lorem in dolor bibendum malesuada. Suspendisse aliquam et orci in sollicitudin.
+      content:
+        h6: More
+        h2: About us
+        text: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque porta lorem in dolor bibendum malesuada. Suspendisse aliquam et orci in sollicitudin. Curabitur ex tortor, fermentum ac neque in, laoreet tempor mi. Quisque fermentum in nisl quis porta. Praesent sollicitudin quam sit amet odio suscipit, non aliquet dui luctus. Phasellus rhoncus, diam a eleifend gravida, odio nulla venenatis massa, sed dapibus urna odio ut felis.
+    urgence:
+      title: Bussiness continuity and emergency preparedness.
+      background: urgence.jpeg
+      content: Our strategy is based on partnership as well kwnowledge transfer during every step relevant to the implementation of emergency response, crisis, management and disaster recovery plan. Urgence Proteck Plus, can help you plan and prepare accordingly.
+      list:
+        - Emergency Response Plan;
+        - Crisis Management Plan;
+        - Disaster Recovery Plan( Operational,Information systems and communications aspects);
+        - Security Audit and Building Inspections;
+        - Test and Exercise Scenarios;
+        - Pandemic Preparedness;
+        - Emergency Response Preparedness Assessment;
+        - Reponse Teams Preparation and Training;
+        - Crisis Management Team Preparation and Training;
+    incendie:
+      title: Fire Protection.
+      background: incendie.jpeg
+      content: In order to comply with standars, regulations and laws pertaining to fire protection of buildings and facilities, we offer you our complete support and collaboration. Urgence Proteck Plus, seeks to give you the necessary knowledge to prevent this threat, protect your infrastructures and save lives.
+      list:
+        - Evaluation and Implementation of Fire Safety Plans;
+        - Evaluation and Implementation of Fire Evacuation Plans;
+        - Security Audits and Building Inspections;
+        - Compliance to Fire Protection Standards and all relevant regulation;
+        - Fire Brigade Training;
+        - Simulator based Fire Extinguischer Training;
+        - Evacuation Drills;
+        - Preparation of Tender documents for all Fire Protection System Components.
+    protection:
+      title: Physical Protection
+      background: protection.jpeg
+      content: Modern technology allows use of advence physical protection systems to secure all types of facilities. Urgence Proteck Plus, uses a methodical approach to guide the design of physical protection system that will meet your objectives against available resources and perceived risks.
+      content2: Urgence Proteck Plus, team can assist you thoughout the complete process of appropriate equipment acquisition for protection at critical points of facility, as well as the development of efficient operating procedures.
+      list:
+        - Interior Intrusion Detection;
+        - Exterior Intrusion Detection;
+        - Camera Surveillance and Alarm Assessment;
+        - Alarm Communication and Display;
+        - Electronic Access Controls;
+        - Key Acess Controls;
+        - Perimeter barriers;
+    gestion:
+      title: Security Management
+      background: gestion.jpeg
+      content: Your organization may face problems regarding criminal behavior, civil disobedience or flow of people and merchandise, we take the time to really understand your reality. Urgence Proteck Plus, will work witch your team to transmit the knowledge necessary to realize your security objectives all while respecting your corporate goals and forecasted budget.
+      list:
+        - Threat and Vulnérability Assessments;
+        - Risk Analysis;
+        - Preparation of Tender documents for Guard, Mobile Patrols, Alarm Response and other services;
+        - Assessment and Implementation of Corporate Security Plans;
+        - Security Departement Management Evaluations;
+        - Security Personnel Training;
+        - Development and Implementation of Security Policies and Procedures;
+        - Contractual Management of Security Services;
+        - Security Personnel Employment Interviews;
+        - Security Department Reorganization;
+        - Workplace Violence and Harassment Prevention Programs.
+    information:
+      title: Information Security
+      background: information.jpeg
+      content: In this day and age, any social and economic development process relies and is largely based on information and communication technologies.
+      content2: In fact, those technologies are important factors of social and economic models of almost all service and product industries, Urgence Proteck Plus profesionals possess the skills and knowledge to guide you through the steps towards the implementation of a complete security program.
+      list:
+        - Risk Analysis;
+        - Information Security Governance Management;
+        - ISO Compliance;
+        - Information Technology Business continuity and Disaster recovery;
+        - Network Security;
+        - Information Sécurity Infrastructure Management;
+        - Information Security Awareness Training;
+  footer:
+    copyright: GoExperts %{year}
