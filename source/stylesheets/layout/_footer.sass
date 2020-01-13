@@ -15,6 +15,9 @@ footer
     animation-timing-function: ease-in-out
 
 .footer__logo
+  text-align: center
+  @media (min-width: $md)
+    text-align: left
   svg
     width: 150px
     .go
@@ -28,6 +31,9 @@ footer
 
 .footer__services
   text-align: center
+  margin: 16px 0
+  @media (min-width: $md)
+    margin: 0
   a
     color: $blue
     transition: color 125ms
@@ -35,7 +41,9 @@ footer
       color: $lightergrey
 
 .footer__contact
-  text-align: right
+  text-align: center
+  @media (min-width: $md)
+    text-align: right
 
 .footer__copyright
   padding: 12px 0
