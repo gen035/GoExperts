@@ -29,7 +29,7 @@ fr:
         h6: En apprendre plus
         h2: À propos de GoExperts
         text: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque porta lorem in dolor bibendum malesuada. Suspendisse aliquam et orci in sollicitudin. Curabitur ex tortor, fermentum ac neque in, laoreet tempor mi. Quisque fermentum in nisl quis porta. Praesent sollicitudin quam sit amet odio suscipit, non aliquet dui luctus. Phasellus rhoncus, diam a eleifend gravida, odio nulla venenatis massa, sed dapibus urna odio ut felis.
-        management: Urgence Proteck plus, et ses experts vous offrent les services de remplacements temporaire ou permanente a long terme, concernant la gestion des services de sécurité. Nous adaptons nos offres a votre société, nos experts peuvent combler le remplacement d’une personne ressource pour des raisons de;
+        management: GoExperts, et ses experts vous offrent les services de remplacements temporaire ou permanente a long terme, concernant la gestion des services de sécurité. Nous adaptons nos offres a votre société, nos experts peuvent combler le remplacement d’une personne ressource pour des raisons de;
         management_list: 
           - Absence maladie long terme;
           - Absence période de maternité;
@@ -42,7 +42,7 @@ fr:
     urgence:
       title: Continuité des affaires et mesures d’urgence.
       background: urgence.jpeg
-      content: Notre stratégie est basé sur le partenariat et le transfert d’expertise à chacune des étapes relatives à l’implantation d’un programme de mesures d’urgence, de gestion de crise et de reprises des activités après sinistres. Urgence Proteck Plus, peut vous aider à vous préparer et à planifier en conséquence.
+      content: Notre stratégie est basé sur le partenariat et le transfert d’expertise à chacune des étapes relatives à l’implantation d’un programme de mesures d’urgence, de gestion de crise et de reprises des activités après sinistres. GoExperts, peut vous aider à vous préparer et à planifier en conséquence.
       list:
         - Plan de mesures d’urgence;
         - Plan de gestion de crise;
@@ -56,7 +56,7 @@ fr:
     incendie:
       title: Sécurité Incendie
       background: incendie.jpeg
-      content: Pour se conformer aux normes, règlementations et lois en matière de sécurité incendie, nous vous offrons tout notre appui et notre collaboration, Urgence Proteck Plus, cherche à vous donner les connaissances requises afin de prévenir ce danger, protéger vis infrastructures et sauver des vies.
+      content: Pour se conformer aux normes, règlementations et lois en matière de sécurité incendie, nous vous offrons tout notre appui et notre collaboration, GoExperts, cherche à vous donner les connaissances requises afin de prévenir ce danger, protéger vis infrastructures et sauver des vies.
       list:
         - Évaluation et implantation de plan de sécurité incendie;
         - Évaluation et implantation des plans d’évacuation;
@@ -69,8 +69,8 @@ fr:
     protection:
       title: Protection Physique
       background: protection.jpeg
-      content: Les technologies contemporaines permettent l’utilisation de systèmes de protection physique avancé, pour protéger tout types d’infrastructures. Urgence Proteck Plus, utilise une approche méthodique pour vous orienter dans le développement et l’implantation d’un système de protection physique qui atteindra vos objectifs en fonction des ressources disponibles et des risques perçus.
-      content2: L’équipe de Urgence Proteck Plus, peut vous assister dans tout le processus d’acquisition des technologies les plus efficaces pour protéger les points les plus critiques de vos installations, ainsi que le développement de procédures d’opération efficaces.
+      content: Les technologies contemporaines permettent l’utilisation de systèmes de protection physique avancé, pour protéger tout types d’infrastructures. GoExperts, utilise une approche méthodique pour vous orienter dans le développement et l’implantation d’un système de protection physique qui atteindra vos objectifs en fonction des ressources disponibles et des risques perçus.
+      content2: L’équipe de GoExperts, peut vous assister dans tout le processus d’acquisition des technologies les plus efficaces pour protéger les points les plus critiques de vos installations, ainsi que le développement de procédures d’opération efficaces.
       list:
         - Détection d’intrusion extérieure;
         - Détection d’intrusion intérieure;
@@ -82,7 +82,7 @@ fr:
     gestion:
       title: Gestion de la sécurité
       background: gestion.jpeg
-      content: Que votre organisme doit composer avec une problématique de criminalité, d’incivilités, de désobéissances civiles ou de flux de personnes ou marchandises. Nous prenons le temps de comprendre votre réalité. Urgence Proteck Plus, travaillera a vous transférer ses connaissances pour répondre à vos besoins en matière  de sécurité tout en respectant vos objectifs corporatifs et prévisions budgétaires.
+      content: Que votre organisme doit composer avec une problématique de criminalité, d’incivilités, de désobéissances civiles ou de flux de personnes ou marchandises. Nous prenons le temps de comprendre votre réalité. GoExperts, travaillera a vous transférer ses connaissances pour répondre à vos besoins en matière  de sécurité tout en respectant vos objectifs corporatifs et prévisions budgétaires.
       list:
         - Évaluation de menaces et vulnérabilités;
         - Analyses de risques;
@@ -98,7 +98,7 @@ fr:
       title: Sécurité de l’information
       background: information.jpeg
       content: De nos jours, tout processus de développement économique et social réserve une place de plus en plus importante aux technologies de l’information, de la communication et au savoir.
-      content2: En effet, ces trois éléments constituent des facteurs importants de transformation rapide des modèles économiques et sociaux sur les secteurs de l’industrie et des services. Les professionnels d’Urgence Proteck Plus sont habilités à vous accompagner à travers les diverses étapes nécessaires à la mise en place d’un programme de sécurité de l’information.
+      content2: En effet, ces trois éléments constituent des facteurs importants de transformation rapide des modèles économiques et sociaux sur les secteurs de l’industrie et des services. Les professionnels d’GoExperts sont habilités à vous accompagner à travers les diverses étapes nécessaires à la mise en place d’un programme de sécurité de l’information.
       list:
         - Analyse de risques;
         - Gestion de la gouvernance de la sécurité de l’information;
