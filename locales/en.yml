@@ -4,6 +4,7 @@ en:
     securite-incendie: fire-protection
     protection-physique: physical-protection
     gestion: management
+    gestion-projet: project-management
     securite-information: information-security
   nav:
     - item:
@@ -19,6 +20,9 @@ en:
       text: Security Management
       link: management
     - item:
+      text: Project Management
+      link: project-management
+    - item:
       text: Information Security
       link: information-security
   pages:
@@ -28,11 +32,13 @@ en:
       content:
         h6: More
         h2: About us
-        text: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque porta lorem in dolor bibendum malesuada. Suspendisse aliquam et orci in sollicitudin. Curabitur ex tortor, fermentum ac neque in, laoreet tempor mi. Quisque fermentum in nisl quis porta. Praesent sollicitudin quam sit amet odio suscipit, non aliquet dui luctus. Phasellus rhoncus, diam a eleifend gravida, odio nulla venenatis massa, sed dapibus urna odio ut felis.
+        text: GO Experts Inc. offers private companies and public organizations quality multidisciplinary consulting services. You will have a team of consultants with more than 20 years of experience specializing in their respective fields. Whether for a specific field or a multi disciplinary project we will meet your needs.
+      content2:
+        text: GO Experts Inc. favors a participative project management approach that has proven itself in the field of consultation. With our cooperative approach, our team is very involved with customers. This allows us to offer you the most competitive value for your money.
     urgence:
       title: Bussiness continuity and emergency preparedness.
       background: urgence.jpeg
-      content: Our strategy is based on partnership as well kwnowledge transfer during every step relevant to the implementation of emergency response, crisis, management and disaster recovery plan. GoExperts, can help you plan and prepare accordingly.
+      content: Our strategy is based on partnership as well kwnowledge transfer during every step relevant to the implementation of emergency response, crisis, management and disaster recovery plan. GO Experts Inc, can help you plan and prepare accordingly.
       list:
         - Emergency Response Plan;
         - Crisis Management Plan;
@@ -46,7 +52,7 @@ en:
     incendie:
       title: Fire Protection.
       background: incendie.jpeg
-      content: In order to comply with standars, regulations and laws pertaining to fire protection of buildings and facilities, we offer you our complete support and collaboration. GoExperts, seeks to give you the necessary knowledge to prevent this threat, protect your infrastructures and save lives.
+      content: In order to comply with standars, regulations and laws pertaining to fire protection of buildings and facilities, we offer you our complete support and collaboration. GO Experts Inc, seeks to give you the necessary knowledge to prevent this threat, protect your infrastructures and save lives.
       list:
         - Evaluation and Implementation of Fire Safety Plans;
         - Evaluation and Implementation of Fire Evacuation Plans;
@@ -59,8 +65,8 @@ en:
     protection:
       title: Physical Protection
       background: protection.jpeg
-      content: Modern technology allows use of advence physical protection systems to secure all types of facilities. GoExperts, uses a methodical approach to guide the design of physical protection system that will meet your objectives against available resources and perceived risks.
-      content2: GoExperts, team can assist you thoughout the complete process of appropriate equipment acquisition for protection at critical points of facility, as well as the development of efficient operating procedures.
+      content: Modern technology allows use of advence physical protection systems to secure all types of facilities. GO Experts Inc, uses a methodical approach to guide the design of physical protection system that will meet your objectives against available resources and perceived risks.
+      content2: GO Experts Inc\, team can assist you thoughout the complete process of appropriate equipment acquisition for protection at critical points of facility, as well as the development of efficient operating procedures.
       list:
         - Interior Intrusion Detection;
         - Exterior Intrusion Detection;
@@ -72,7 +78,7 @@ en:
     gestion:
       title: Security Management
       background: gestion.jpeg
-      content: Your organization may face problems regarding criminal behavior, civil disobedience or flow of people and merchandise, we take the time to really understand your reality. GoExperts, will work witch your team to transmit the knowledge necessary to realize your security objectives all while respecting your corporate goals and forecasted budget.
+      content: Your organization may face problems regarding criminal behavior, civil disobedience or flow of people and merchandise, we take the time to really understand your reality. GO Experts Inc\, will work witch your team to transmit the knowledge necessary to realize your security objectives all while respecting your corporate goals and forecasted budget.
       list:
         - Threat and Vulnérability Assessments;
         - Risk Analysis;
@@ -85,11 +91,19 @@ en:
         - Security Personnel Employment Interviews;
         - Security Department Reorganization;
         - Workplace Violence and Harassment Prevention Programs.
+    gestion-projet:
+      title: Project management
+      background: gestionProjet.jpeg
+      content1: GO Experts Inc. favors a participative project management approach that has proven itself in the field of consultation. Whether to take charge of your entire project or partially we can support you.
+      content2: First, we will help you to identify your needs. Team meetings, an analysis of your internal reports and statistics, observation sessions are only tools that we use to understand your needs.
+      content3: Secondly, once your needs are established, we will start planning you project. At this stage, we will determine a list of the tasks that needs to be done, which will help us figure out the schedule and the budget.
+      content4: Thereafter we will carry out the work to be done, following the schedule and the budget. Rigorous monitoring combined with progress reposts will allow the client to be informed of the evolution of the project.
+      content5: The last phase, the completion of the project will be used for training, submitting reports and various quotes. A post mortem will be held during the final meeting with the client.
     information:
       title: Information Security
       background: information.jpeg
       content: In this day and age, any social and economic development process relies and is largely based on information and communication technologies.
-      content2: In fact, those technologies are important factors of social and economic models of almost all service and product industries, GoExperts profesionals possess the skills and knowledge to guide you through the steps towards the implementation of a complete security program.
+      content2: In fact, those technologies are important factors of social and economic models of almost all service and product industries, GO Experts Inc\ profesionals possess the skills and knowledge to guide you through the steps towards the implementation of a complete security program.
       list:
         - Risk Analysis;
         - Information Security Governance Management;
@@ -99,4 +113,4 @@ en:
         - Information Sécurity Infrastructure Management;
         - Information Security Awareness Training;
   footer:
-    copyright: GoExperts %{year}
+    copyright: GO Experts Inc\ %{year}

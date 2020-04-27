@@ -80,21 +80,24 @@
 
 .index__about
   padding: 45px 0 90px 0
+  .row
+    margin: 40px auto
 
 .index__content
   position: relative
-  &::after
-    background-color: rgba(49, 137, 181, 0.1)
-    content: ''
-    display: none
-    height: 150%
-    padding: 30px
-    position: absolute
-    right: -30px
-    top: -25%
-    width: 150%
-    @media (min-width: $md)
-      display: block
+  &--after
+    &::after
+      background-color: rgba(49, 137, 181, 0.1)
+      content: ''
+      display: none
+      height: 150%
+      padding: 30px
+      position: absolute
+      right: -30px
+      top: -25%
+      width: 150%
+      @media (min-width: $md)
+        display: block
   h6
     margin-bottom: 10px
 
