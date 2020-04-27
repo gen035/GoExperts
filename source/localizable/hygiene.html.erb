@@ -1,0 +1,73 @@
+<% - @title = t('pages.hygiene.title') %>
+<%= partial "layouts/page_header", :locals => {:title => t('pages.hygiene.title'), :image => t('pages.hygiene.background')} %>
+<section class="page--gap">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-8 offset-md-2 page__content">
+        <h2><%= t('pages.hygiene.subtitle1') %></h1>
+        <%= t('pages.hygiene.content1') %>
+      </div>
+    </div>
+    <div class="row page__list">
+      <div class="col-md-8 offset-md-2">
+        <ul>
+          <% t('pages.hygiene.list1').each do |item| %>
+            <li><%= item %></li>
+          <% end %>
+        </ul>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-md-8 offset-md-2 page__content">
+        <h2><%= t('pages.hygiene.subtitle2') %></h1>
+        <%= t('pages.hygiene.content2a') %>
+      </div>
+      <div class="col-md-8 offset-md-2 page__content">
+        <%= t('pages.hygiene.content2b') %>
+      </div>
+      <div class="col-md-8 offset-md-2 page__content">
+        <%= t('pages.hygiene.content2c') %>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-md-8 offset-md-2 page__content">
+        <h2><%= t('pages.hygiene.subtitle3') %></h1>
+        <%= t('pages.hygiene.content3a') %>
+      </div>
+    </div>
+    <div class="row page__list">
+      <div class="col-md-8 offset-md-2">
+        <ul>
+          <% t('pages.hygiene.list3').each do |item| %>
+            <li><%= item %></li>
+          <% end %>
+        </ul>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-md-8 offset-md-2 page__content">
+        <%= t('pages.hygiene.content3b') %>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-md-8 offset-md-2 page__content">
+        <h2><%= t('pages.hygiene.subtitle4') %></h1>
+        <%= t('pages.hygiene.content4a') %>
+      </div>
+    </div>
+    <div class="row page__list">
+      <div class="col-md-8 offset-md-2">
+        <ul>
+          <% t('pages.hygiene.list4').each do |item| %>
+            <li><%= item %></li>
+          <% end %>
+        </ul>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-md-8 offset-md-2 page__content">
+        <%= t('pages.hygiene.content4b') %>
+      </div>
+    </div>
+  </div>
+</section>

@@ -6,6 +6,7 @@ en:
     gestion: management
     gestion-projet: project-management
     securite-information: information-security
+    hygiene: hygiene
   nav:
     - item:
       text: Bussiness continuity and emergency preparedness.
@@ -25,6 +26,9 @@ en:
     - item:
       text: Information Security
       link: information-security
+    - item:
+      text: Hygiene and sanitation
+      link: hygiene
   pages:
     index:
       title: Security services management and emergency measures
@@ -112,5 +116,37 @@ en:
         - Network Security;
         - Information Sécurity Infrastructure Management;
         - Information Security Awareness Training;
+    hygiene:
+      title: Hygiene and sanitation
+      background: hygiene.jpg
+      subtitle1: Quote preparation
+      content1: The preparation of a quote is an important step for your company, our services offer you the following services for the preparation of your documents;
+      list1:
+        - Proposal / Specifications;
+        - A quote for the maintenance of your spaces;
+        - A quote for the purchase of equipment and / or maintenance product;
+        - A quote for the maintenance of your devices;
+      subtitle2: Quality control
+      content2a: We offer highly productive quality inspections. Quality control is not the only aspect to consider in order to know what is and is not going well in the maintenance of your spaces. This is also a moment of questioning whether we should be performing the tasks on other frequencies or use other technics.
+      content2b: La plupart du temps lorsque les clients demandent qu’un contrôle de la qualité des services que vos ressources ou ceux de l’externe vous donnent sur place souvent des plaintes ont été portées contre le service.
+      content2c: The quality control carried out by our control experts is not there just to point out where the resources need improving, but also to help you adapt and find other ways of doing things.
+      subtitle3: Evaluation of the work routes
+      content3a: Our specialists will be able to help you upgrade your work routes;
+      list3:
+        - Production of new work routes;
+        - Review and/or modification of existing roads;
+        - Revision of the equipment required to complete the work route;
+        - Inspection on work routes to meet SST standards;
+        - Training on existing routes for a new or current employee;
+        - Quality control of services;
+      content3b: As we all know, work routes are often based on the occupancy of spaces and their maintenance. It is essential that the work route that the employee must perform during his shift, is part of the reality of this route, these spaces are occupied by which clientele, these spaces are accessible how often by users.
+      subtitle4: Course
+      content4a: 'The attendee will understand that the goal of this work is to reaffirm the importance of cleanliness without being limited to specific procedures focused on the fight against infections. So, as we all know, cleanliness is the cornerstone of measures to control not only infections, but also other unwanted effects like allergies. Cleanliness is also an important element of user satisfaction. The ultimate goal of this training is to be able to transmit the following messages to salubristes:'
+      list4:
+        - To preserve a clean environment;
+        - Limit the risks of transmission of infectious agents through inanimate surfaces of the environment;
+        - Ensure the safety of staff and users;
+        - Maintain the integrity of surfaces.
+      content4b: It is imperative to ensure in healthcare establishments a quality of hygiene and sanitation corresponding to the highest standards. Although these points are partly covered in the training program, special attention should be paid to cleaning and disinfection. In addition, the maintenance of ventilation and air conditioning systems must be taken into account.
   footer:
     copyright: GO Experts Inc\ %{year}

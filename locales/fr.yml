@@ -6,6 +6,7 @@ fr:
     gestion: gestion
     gestion-projet: gestion-projet
     securite-information: securite-information
+    hygiene: hygiene
   nav:
     - item:
       text: Continuité des affaires et mesures d’urgence
@@ -25,6 +26,9 @@ fr:
     - item:
       text: Sécurité de l’information
       link: securite-information
+    - item:
+      text: Hygiene et salubrité
+      link: hygiene
   pages:
     index:
       title: Gestion des services de sécurité et mesures d’urgence
@@ -121,5 +125,37 @@ fr:
         - Relève et continuité de l’infrastructure informatique;
         - Gestion de l’infrastructure de sécurité de l’information-aspects informatique et télécommunications;
         - Formation et sensibilisation en sécurité de l’information.
+    hygiene:
+      title: Hygiene et salubrité
+      background: hygiene.jpg
+      subtitle1: Préparation de devis
+      content1: La préparation d’un devis est une étape importante pour votre société, nos services vous offrent les services suivants pour la préparation de vos documents;
+      list1:
+        - Un appel d’offres de service/ Cahier des charges;
+        - Un devis d’entretien de vos espaces;
+        - Un devis d’achat d’équipement et/ou de produit d’entretien;
+        - Un devis pour la maintenance de vos appareils;
+      subtitle2: Contrôle de la qualité
+      content2a: Nous vous offrons des inspections de qualité hautement productive, le contrôle de la qualité n’est pas seulement un aspect afin de savoir ce qui va et ne va pas dans l’entretien de vos espaces. Cela est aussi un moment de questionnement à savoir si nous devrions effectuer les tâches sur d’autres fréquences ou autrement.
+      content2b: La plupart du temps lorsque les clients demandent qu’un contrôle de la qualité des services que vos ressources ou ceux de l’externe vous donnent sur place souvent des plaintes ont été portées contre le service.
+      content2c: Le contrôle de la qualité effectuer par nos experts en contrôle ne sont pas là juste pour vous souligner les mauvais coups des ressources, mais aussi pour vous aider à adapté d’autres façons de faire ou de vous suggéré des items qui vous on échappé.
+      subtitle3: Audition des routes de travaux de vos ressources
+      content3a: Nos spécialistes en la matière pourront vous aider à effectuer une mise a niveau de vos routes de travail que ce soit;
+      list3:
+        - Production de nouvelle route de travail;
+        - Révision et/ou modifications  des routes existantes;
+        - Révision des équipements requis pour effectuer la route de travail;
+        - Inspection sur les routes de travail afin de satisfaire aux normes SST;
+        - Formation sur les routes existantes ou pour un nouvel employé;
+        - Contrôle de la qualité des services;
+      content3b: Comme nous le savons tous, les routes de travail sont souvent basées sur l’occupation des espaces et de leur entretien. Il est primordial que la route de travail que l’employé doit effecteur durant son quart de travail, relève de la réalité de cette route, ces espaces sont occupés par quelle clientèle, ces espaces sont accessible dans quelle fréquence par les utilisateurs.
+      subtitle4: Formation
+      content4a: 'Le lecteur comprendra que le but poursuivi par ce travail est de réaffirmer l’importance de la propreté sans se limiter aux procédures spécifiques centrées sur la lutte aux infections. Ainsi, comme nous le savons tous, la propreté est la pierre angulaire des mesures destinées à contrôler non seulement les infections, mais également d’autres effets indésirables comme les allergies. La propreté est, de plus, un élément important de satisfaction des usagers. Cette formation a pour bût ultime de pouvoir transmettre aux salubristes les messages suivants:'
+      list4:
+        - De préserver un environnement propre;
+        - Limiter les risques de transmission des agents infectieux par l’entremise des surfaces inanimées de l’environnement;
+        - Assurer la sécurité du personnel et des usagers;
+        - Maintenir l’intégrité des surfaces.
+      content4b: Il est impératif d’assurer dans les établissements de soins une qualité d’hygiène et de salubrité correspondant aux normes les plus élevées. Bien que ces points soient en partie couverts dans le programme de formation, une attention spéciale doit être portée au nettoyage et à la désinfection. De plus, l’entretien des systèmes de ventilation-climatisation doit être pris en considération.
   footer:
     copyright: GO Experts Inc %{year}
