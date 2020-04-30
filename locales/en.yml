@@ -7,6 +7,7 @@ en:
     gestion-projet: project-management
     securite-information: information-security
     hygiene: hygiene
+    pret: staff-loan
   nav:
     - item:
       text: Bussiness continuity and emergency preparedness.
@@ -29,6 +30,9 @@ en:
     - item:
       text: Hygiene and sanitation
       link: hygiene
+    - item:
+      text: Staff loan
+      link: pret
   pages:
     index:
       title: Security services management and emergency measures
@@ -148,5 +152,18 @@ en:
         - Ensure the safety of staff and users;
         - Maintain the integrity of surfaces.
       content4b: It is imperative to ensure in healthcare establishments a quality of hygiene and sanitation corresponding to the highest standards. Although these points are partly covered in the training program, special attention should be paid to cleaning and disinfection. In addition, the maintenance of ventilation and air conditioning systems must be taken into account.
+    pret:
+      title: Physical Protection
+      background: staff.jpeg
+      content: Modern technology allows use of advence physical protection systems to secure all types of facilities. GO Experts Inc, uses a methodical approach to guide the design of physical protection system that will meet your objectives against available resources and perceived risks.
+      content2: GO Experts Inc\, team can assist you thoughout the complete process of appropriate equipment acquisition for protection at critical points of facility, as well as the development of efficient operating procedures.
+      list:
+        - Interior Intrusion Detection;
+        - Exterior Intrusion Detection;
+        - Camera Surveillance and Alarm Assessment;
+        - Alarm Communication and Display;
+        - Electronic Access Controls;
+        - Key Acess Controls;
+        - Perimeter barriers;
   footer:
     copyright: GO Experts Inc\ %{year}

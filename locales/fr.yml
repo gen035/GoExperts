@@ -7,6 +7,7 @@ fr:
     gestion-projet: gestion-projet
     securite-information: securite-information
     hygiene: hygiene
+    pret: pret-de-personnel
   nav:
     - item:
       text: Continuité des affaires et mesures d’urgence
@@ -29,6 +30,9 @@ fr:
     - item:
       text: Hygiene et salubrité
       link: hygiene
+    - item:
+      text: Prêt de personnel
+      link: pret-de-personnel
   pages:
     index:
       title: Gestion des services de sécurité et mesures d’urgence
@@ -157,5 +161,9 @@ fr:
         - Assurer la sécurité du personnel et des usagers;
         - Maintenir l’intégrité des surfaces.
       content4b: Il est impératif d’assurer dans les établissements de soins une qualité d’hygiène et de salubrité correspondant aux normes les plus élevées. Bien que ces points soient en partie couverts dans le programme de formation, une attention spéciale doit être portée au nettoyage et à la désinfection. De plus, l’entretien des systèmes de ventilation-climatisation doit être pris en considération.
+    pret:
+      title: Prêt de personnel
+      background: staff.jpg
+      content: La société offre a ses clients l’opportunité de pouvoir remplacer ses chefs de service en salubrité et/ou technique pour un temps déterminé ou indéterminé, que ce soit pour gérer les différentes facettes de la salubrité, allant de l’embauche du personnel, dossier SST, dossier syndical, approbation des payes pour les salariées ou autres, nous sommes présent pour vous aider. Nous pouvons dans un délai respectable  combler vos besoins, plusieurs remplacements de chefs de service ont déjà été effectués par les gens de l’entreprise dans le domaine de la santé et privée.
   footer:
     copyright: GO Experts Inc %{year}
