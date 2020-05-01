@@ -41,7 +41,7 @@ fr:
         h6: En apprendre plus
         h2: À propos
         text: GO Experts Inc.  offre aux entreprises privées et organisme publiques des services de consultation multidisciplinaire de qualité. Vous disposerez d’une équipe composée de consultants de plus de 20 années d’expériences spécialisés dans leur domaine respectif. Que ce soit pour un domaine spécifique ou un projet multi disciplinaire nous serons répondre à vos besoins.
-        management: GO Experts Inc, et ses experts vous offrent les services de remplacements temporaire ou permanente a long terme, concernant la gestion des services de sécurité. Nous adaptons nos offres a votre société, nos experts peuvent combler le remplacement d’une personne ressource pour des raisons de;
+        management: GO Experts Inc. privilégie une approche gestion de projets participative qui a fait ses preuves dans le domaine de la consultation. Ayant une approche coopérative, notre équipe est très impliquée avec les clients. Et cela nous permets de vous offrir un rapport qualité prix des plus compétitifs.
         management_list: 
           - Absence maladie long terme;
           - Absence période de maternité;
@@ -51,8 +51,6 @@ fr:
           - Études des services offerts auprès de votre clientèle et usagers;
           - Gestion du contrôle de vos accès;
           - Gestion de vos systèmes de caméras;
-      content2:
-        text: 'GO Experts Inc. privilégie une approche gestion de projets participative qui a fait ses preuves dans le domaine de la consultation. Ayant une approche coopérative, notre équipe est très impliquée avec les clients. Et cela nous permets de vous offrir un rapport qualité prix des plus compétitifs.'
     urgence:
       title: Continuité des affaires et mesures d’urgence.
       background: urgence.jpeg
