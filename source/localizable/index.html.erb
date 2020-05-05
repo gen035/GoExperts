@@ -33,8 +33,10 @@
         </div>
         <div class="col-md-6 col-lg-6 ">
           <ul>
-            <% t('pages.information.list').each do |item| %>
-              <li><%= item %></li>
+            <% t('nav').each_with_index do |item, index| %>
+              <li>
+                <%= link_to item[:text], i18n_path(item[:link], language: lang) %>
+              </li>
             <% end %>
           </ul>
         </div>
