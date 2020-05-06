@@ -36,47 +36,47 @@ fr:
   pages:
     index:
       title: Consultants multidisciplinaire en gestion immobilière
-      text: Nos services pourront s’adapté à votre structure opérationnelle avec le plus grand soin et en toute discrétion absolue, notre disponibilité et notre engagement fait de nous des experts dans notre service de gestion.
+      text: Nos services pourront s’adaptés à votre structure opérationnelle avec le plus grand soin et en toute discrétion absolue, notre disponibilité et notre engagement fait de nous des experts dans notre service de gestion.
       content:
         h6: En apprendre plus
         h2: À propos
-        text: GO Experts Inc.  offre aux entreprises privées et organisme publiques des services de consultation multidisciplinaire de qualité. Vous disposerez d’une équipe composée de consultants de plus de 20 années d’expériences spécialisés dans leur domaine respectif. Que ce soit pour un domaine spécifique ou un projet multi disciplinaire nous serons répondre à vos besoins.
-        management: GO Experts Inc. privilégie une approche gestion de projets participative qui a fait ses preuves dans le domaine de la consultation. Ayant une approche coopérative, notre équipe est très impliquée avec les clients. Et cela nous permets de vous offrir un rapport qualité prix des plus compétitifs.
+        text: GO Experts Inc. offre aux entreprises privées et organismes publiques des services de consultation multidisciplinaire de qualité. Vous disposerez d’une équipe composée de consultants de plus de 20 années d’expériences spécialisés dans leur domaine respectif. Que ce soit pour un domaine spécifique ou un projet multis disciplinaire nous serons répondre à vos besoins.
+        management: GO Experts Inc. privilégie une approche de gestion de projets participative qui a fait ses preuves dans le domaine de la consultation. Ayant une approche coopérative, notre équipe est très impliquée avec les clients. Et cela nous permet de vous offrir un rapport qualité prix des plus compétitifs.
         management_list: 
-          - Absence maladie long terme;
-          - Absence période de maternité;
-          - Remplacement du chef des opérations ou du service du a un congédiement;
-          - Congé sans solde;
-          - Départ à la retraite;
-          - Études des services offerts auprès de votre clientèle et usagers;
-          - Gestion du contrôle de vos accès;
-          - Gestion de vos systèmes de caméras;
+          - Absence maladie longue durée
+          - Absence période de maternité
+          - Remplacement du chef des opérations ou du service du a un congédiement
+          - Congé sans solde
+          - Départ à la retraite
+          - Études des services offerts auprès de votre clientèle et usagers
+          - Gestion du contrôle de vos accès
+          - Gestion de vos systèmes de caméras
     urgence:
       title: Continuité des affaires et mesures d’urgence.
       background: urgence.jpeg
-      content: Notre stratégie est basé sur le partenariat et le transfert d’expertise à chacune des étapes relatives à l’implantation d’un programme de mesures d’urgence, de gestion de crise et de reprises des activités après sinistres. GO Experts Inc, peut vous aider à vous préparer et à planifier en conséquence.
+      content:  Notre stratégie est basée sur le partenariat et le transfert d’expertise à chacune des étapes relatives à l’implantation d’un programme de mesures d’urgence, de gestion de crise et de reprises des activités après sinistres. GO Experts Inc, peut vous aider à vous préparer et à planifier en conséquence.
       list:
-        - Plan de mesures d’urgence;
-        - Plan de gestion de crise;
-        - Plan de reprise des activités après sinistre ( Aspect opérationnels, informatiques et télécoms);
-        - Audits de sécurité et inspections de bâtiments;
-        - Simulation d’incidents et exercices;
-        - Plan de protection contre les pandémies;
-        - Évaluation du niveau de préparation en mesures d’urgence;
-        - Formation de comités de coordination;
-        - Formation d’équipes de gestion crise;
+        - Plan de mesures d’urgence
+        - Plan de gestion de crise
+        - Plan de reprise des activités après sinistre (Aspect opérationnels, informatiques et télécoms)
+        - Audits de sécurité et inspections de bâtiments
+        - Simulation d’incidents et exercices
+        - Plan de protection contre les pandémies
+        - Évaluation du niveau de préparation en mesures d’urgences
+        - Formation de comités de coordination
+        - Formation d’équipes de gestion crise
     incendie:
       title: Sécurité Incendie
       background: incendie.jpeg
-      content: Pour se conformer aux normes, règlementations et lois en matière de sécurité incendie, nous vous offrons tout notre appui et notre collaboration, GO Experts Inc, cherche à vous donner les connaissances requises afin de prévenir ce danger, protéger vis infrastructures et sauver des vies.
+      content: Pour se conformer aux normes, réglementations et lois en matière de sécurité incendie, nous vous offrons tout notre appui et notre collaboration, GO Experts Inc, cherche à vous donner les connaissances requises afin de prévenir ce danger, protéger vis infrastructures et sauver des vies.
       list:
-        - Évaluation et implantation de plan de sécurité incendie;
-        - Évaluation et implantation des plans d’évacuation;
-        - Audits de sécurité et de protections du bâtiment;
-        - Mise aux normes er à toutes règlementation en sécurité incendie;
-        - Formation de brigades d’incendie;
-        - Formation d’utilisation d’extincteur portatif sur simulateur;
-        - Exercices d’évacuations;
+        - Évaluation et implantation de plan de sécurité incendie
+        - Évaluation et implantation des plans d’évacuation
+        - Audits de sécurité et de protections du bâtiment
+        - Mise aux normes er à toutes règlementation en sécurité incendie
+        - Formation de brigades d’incendie
+        - Formation d’utilisation d’extincteur portatif sur un simulateur
+        - Exercices d’évacuations
         - Préparations d’appels d’offres ou cahiers des charges pour toutes composantes de systèmes de protection incendie.
     protection:
       title: Protection Physique
@@ -84,35 +84,35 @@ fr:
       content: Les technologies contemporaines permettent l’utilisation de systèmes de protection physique avancé, pour protéger tout types d’infrastructures. GO Experts Inc, utilise une approche méthodique pour vous orienter dans le développement et l’implantation d’un système de protection physique qui atteindra vos objectifs en fonction des ressources disponibles et des risques perçus.
       content2: L’équipe de GO Experts Inc, peut vous assister dans tout le processus d’acquisition des technologies les plus efficaces pour protéger les points les plus critiques de vos installations, ainsi que le développement de procédures d’opération efficaces.
       list:
-        - Détection d’intrusion extérieure;
-        - Détection d’intrusion intérieure;
-        - Vidéosurveillance er évaluation d’alarmes;
-        - Communication affichage d’alarme;
-        - Contrôle d’accès électronique;
-        - Contrôle d’accès par clé;
-        - Protection de périmètres;
+        - Détection d’intrusion extérieure
+        - Détection d’intrusion intérieure
+        - Vidéosurveillance et évaluation d’alarmes
+        - Communication affichage d’alarme
+        - Contrôle d’accès électronique
+        - Contrôle d’accès par clé
+        - Protection de périmètres
     gestion:
       title: Gestion de la sécurité
       background: gestion.jpeg
-      content: Que votre organisme doit composer avec une problématique de criminalité, d’incivilités, de désobéissances civiles ou de flux de personnes ou marchandises. Nous prenons le temps de comprendre votre réalité. GO Experts Inc, travaillera a vous transférer ses connaissances pour répondre à vos besoins en matière  de sécurité tout en respectant vos objectifs corporatifs et prévisions budgétaires.
+      content: Que votre organisme doit composer avec une problématique de criminalité, d’incivilités, de désobéissances civiles ou de flux de personnes ou marchandises. Nous prenons le temps de comprendre votre réalité. GO Experts Inc, travaillera à vous transférer ses connaissances pour répondre à vos besoins en matière  de sécurité tout en respectant vos objectifs corporatifs et prévisions budgétaires.
       list:
-        - Évaluation de menaces et vulnérabilités;
-        - Analyses de risques;
-        - Préparation d’appels d’offres (cahier des charges) pour gardiennage, patrouilles, réponse d’alarmes et autres;
-        - Évaluation et implantation de plan de sécurité corporative;
-        - Formation du personnel de sécurité;
-        - Élaboration et implantation de politiques et procédures de sécurité;
-        - Gestion contractuelle du service de sécurité;
-        - Entrevues de sélection du personnel de sécurité;
-        - Réorganisation des services de sécurité;
-        - Plan de protection contre le harcèlement et la violence en milieu de travail;
+        - Évaluation de menaces et vulnérabilités
+        - Analyses de risques
+        - Préparation d’appels d’offres (cahier des charges) pour gardiennage, patrouilles, réponse d’alarmes et autres
+        - Évaluation et implantation de plan de sécurité corporative
+        - Formation du personnel de sécurité
+        - Élaboration et implantation de politiques et procédures de sécurité
+        - Gestion contractuelle du service de sécurité
+        - Entrevues de sélection du personnel de sécurité
+        - Réorganisation des services de sécurité
+        - Plan de protection contre le harcèlement et la violence en milieu de travail
     gestion-projet:
       title: Gestion de projet
       background: gestionProjet.jpeg
-      content1: GO Experts Inc. privilégie une approche gestion de projets participative qui a fait ses preuves dans le domaine de la consultation. Que ce soit pour prendre charge de l’ensemble de votre projet ou partiellement nous pouvons vous accompagner dans ceux-ci.
-      content2: Dans un premier temps nous vous accompagnerons pour l’identification de vos besoins. Des rencontres de vos différentes équipes de travail, une analyse de vos rapports internes et de vos statistiques, des séances d’observations ne sont des outils que nous utilisons pour bien cerner vos besoins.
-      content3: Dans un deuxième temps une fois les besoins bien définis nous débuterons la planification de votre projet. A cette étape nous établirons une liste d’activités à faire. Celle-ci nous permettra d’élaborer un échéancier de travail et un budget. Les devis et plan de travail suivront.
-      content4: Par la suite nous procéderons à la réalisation du travail à faire. Celui-ci se fera dans le respect de l’échéancier, du budget et de la qualité des activités à réaliser. Un suivi rigoureux combiné a des rapports d’étapes permettra au client d’être informé de l’évolution de son mandat.
+      content1: GO Experts Inc. privilégie une approche de gestion de projets participative qui a fait ses preuves dans le domaine de la consultation. Que ce soit pour prendre charge de l’ensemble de votre projet ou partiellement nous pouvons vous accompagner dans ceux-ci.
+      content2: Dans un premier temps, nous vous accompagnerons pour l’identification de vos besoins. Des rencontres de vos différentes équipes de travail, une analyse de vos rapports internes et de vos statistiques, des séances d’observations ne sont des outils que nous utilisons pour bien cerner vos besoins.
+      content3: Dans un deuxième temps, une fois les besoins bien définis, nous débuterons la planification de votre projet. À cette étape nous établirons une liste d’activités à faire. Celle-ci nous permettra d’élaborer un échéancier de travaux et un budget. Les devis et plan de travail suivront.
+      content4: Par la suite, nous procéderons à la réalisation du travail à faire. Celui-ci se fera dans le respect de l’échéancier, du budget et de la qualité des activités à réaliser. Un suivit rigoureux combiné a des rapports d’étapes permettra au client d’être informé de l’évolution de son mandat.
       content5: La dernière phase soit la terminaison du projet servira à la formation, la remise des rapports et des différents devis. Un post mortem sera élaboré lors d’une rencontre finale avec le client.
     information:
       title: Sécurité de l’information
@@ -120,48 +120,48 @@ fr:
       content: De nos jours, tout processus de développement économique et social réserve une place de plus en plus importante aux technologies de l’information, de la communication et au savoir.
       content2: En effet, ces trois éléments constituent des facteurs importants de transformation rapide des modèles économiques et sociaux sur les secteurs de l’industrie et des services. Les professionnels GO Experts Inc sont habilités à vous accompagner à travers les diverses étapes nécessaires à la mise en place d’un programme de sécurité de l’information.
       list:
-        - Analyse de risques;
-        - Gestion de la gouvernance de la sécurité de l’information;
-        - Conformité aux normes ISO;
-        - Sécurité des réseaux;
-        - Relève et continuité de l’infrastructure informatique;
-        - Gestion de l’infrastructure de sécurité de l’information-aspects informatique et télécommunications;
-        - Formation et sensibilisation en sécurité de l’information.
+        - Analyse de risques
+        - Gestion de la gouvernance de la sécurité de l’information
+        - Conformité aux normes ISO
+        - Sécurité des réseaux
+        - Relève et continuité de l’infrastructure informatique
+        - Gestion de l’infrastructure de sécurité de l’information-aspects informatique et télécommunications
+        - Formation et sensibilisation en sécurité de l’information
     hygiene:
       title: Hygiene et salubrité
       background: hygiene.jpg
       subtitle1: Préparation de devis
-      content1: La préparation d’un devis est une étape importante pour votre société, nos services vous offrent les services suivants pour la préparation de vos documents;
+      content1: La préparation d’un devis est une étape importante pour votre société, nos services vous offrent les services suivants pour la préparation de vos documents.
       list1:
-        - Un appel d’offres de service/ Cahier des charges;
-        - Un devis d’entretien de vos espaces;
-        - Un devis d’achat d’équipement et/ou de produit d’entretien;
-        - Un devis pour la maintenance de vos appareils;
+        - Un appel d’offres de service/ Cahier des charges
+        - Un devis d’entretien de vos espaces
+        - Un devis d’achat d’équipement et/ou de produit d’entretien
+        - Un devis pour la maintenance de vos appareils
       subtitle2: Contrôle de la qualité
       content2a: Nous vous offrons des inspections de qualité hautement productive, le contrôle de la qualité n’est pas seulement un aspect afin de savoir ce qui va et ne va pas dans l’entretien de vos espaces. Cela est aussi un moment de questionnement à savoir si nous devrions effectuer les tâches sur d’autres fréquences ou autrement.
       content2b: Lorsque vous recevez des plaintes relatives à la prestation de vos services nous pouvons effectuer un contrôle de qualité afin d'identifier où se trouve les problèmes.
-      content2c: Le contrôle de la qualité effectuer par nos experts en contrôle ne sont pas là juste pour vous souligner les mauvais coups des ressources, mais aussi pour vous aider à adapté d’autres façons de faire ou de vous suggéré des items qui vous on échappé.
+      content2c: Le contrôle de la qualité effectué par nos experts en contrôle ne sont pas là juste pour vous souligner les mauvais coups des ressources, mais aussi pour vous aider à adapté d’autres façons de faire ou de vous suggérer des items qui vous ont échappé.
       subtitle3: Audition des routes de travaux de vos ressources
-      content3a: Nos spécialistes en la matière pourront vous aider à effectuer une mise a niveau de vos routes de travail que ce soit;
+      content3a: Nos spécialistes en la matière pourront vous aider à effectuer une mise a niveau de vos routes de travail que ce soit
       list3:
-        - Production de nouvelle route de travail;
-        - Révision et/ou modifications  des routes existantes;
-        - Révision des équipements requis pour effectuer la route de travail;
-        - Inspection sur les routes de travail afin de satisfaire aux normes SST;
-        - Formation sur les routes existantes ou pour un nouvel employé;
-        - Contrôle de la qualité des services;
+        - Production de nouvelle route de travail
+        - Révision et/ou modifications  des routes existantes
+        - Révision des équipements requis pour effectuer la route de travail
+        - Inspection sur les routes de travail afin de satisfaire aux normes SST
+        - Formation sur les routes existantes ou pour un nouvel employé
+        - Contrôle de la qualité des services
       content3b: Comme nous le savons tous, les routes de travail sont souvent basées sur l’occupation des espaces et de leur entretien. Il est primordial que la route de travail que l’employé doit effecteur durant son quart de travail, relève de la réalité de cette route, ces espaces sont occupés par quelle clientèle, ces espaces sont accessible dans quelle fréquence par les utilisateurs.
       subtitle4: Formation
-      content4a: 'Le lecteur comprendra que le but poursuivi par ce travail est de réaffirmer l’importance de la propreté sans se limiter aux procédures spécifiques centrées sur la lutte aux infections. Ainsi, comme nous le savons tous, la propreté est la pierre angulaire des mesures destinées à contrôler non seulement les infections, mais également d’autres effets indésirables comme les allergies. La propreté est, de plus, un élément important de satisfaction des usagers. Cette formation a pour bût ultime de pouvoir transmettre aux salubristes les messages suivants:'
+      content4a: 'Le lecteur comprendra que le but poursuivi par ce travail est de réaffirmer l’importance de la propreté sans se limiter aux procédures spécifiques centrées sur la lutte aux infections. Ainsi, comme nous le savons tous, la propreté est la pierre angulaire des mesures destinées à contrôler non seulement les infections, mais également d’autres effets indésirables comme les allergies. La propreté est, de plus, un élément important de satisfaction des usagers. Cette formation a pour but ultime de pouvoir transmettre aux salubristes les messages suivants:'
       list4:
-        - De préserver un environnement propre;
-        - Limiter les risques de transmission des agents infectieux par l’entremise des surfaces inanimées de l’environnement;
-        - Assurer la sécurité du personnel et des usagers;
-        - Maintenir l’intégrité des surfaces.
+        - De préserver un environnement propre
+        - Limiter les risques de transmission des agents infectieux par l’entremise des surfaces inanimées de l’environnement
+        - Assurer la sécurité du personnel et des usagers
+        - Maintenir l’intégrité des surfaces
       content4b: Il est impératif d’assurer dans les établissements de soins une qualité d’hygiène et de salubrité correspondant aux normes les plus élevées. Bien que ces points soient en partie couverts dans le programme de formation, une attention spéciale doit être portée au nettoyage et à la désinfection. De plus, l’entretien des systèmes de ventilation-climatisation doit être pris en considération.
     pret:
       title: Prêt de personnel
       background: staff.jpg
-      content: La société offre a ses clients l’opportunité de pouvoir remplacer ses chefs de service en salubrité et/ou technique pour un temps déterminé ou indéterminé, que ce soit pour gérer les différentes facettes de la salubrité, allant de l’embauche du personnel, dossier SST, dossier syndical, approbation des payes pour les salariées ou autres, nous sommes présent pour vous aider. Nous pouvons dans un délai respectable  combler vos besoins, plusieurs remplacements de chefs de service ont déjà été effectués par les gens de l’entreprise dans le domaine de la santé et privée.
+      content: La société offre à ses clients l’opportunité de pouvoir remplacer ses chefs de service en salubrité et/ou technique pour un temps déterminé ou indéterminé, que ce soit pour gérer les différentes facettes de la salubrité, allant de l’embauche du personnel, dossier SST, dossier syndical, approbation des payes pour les salariées ou autres, nous sommes présent pour vous aider. Nous pouvons dans un délai respectable, combler vos besoins, plusieurs remplacements de chefs de service ont déjà été effectués par les gens de l’entreprise dans le domaine de la santé et privée.
   footer:
     copyright: GO Experts Inc %{year}
