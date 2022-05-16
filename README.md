@@ -1,4 +1,4 @@
 # GoExperts
-[Link to website](http://www.goexperts.ca/)
+### OFFLINE
 
 Built using [Middleman](https://middlemanapp.com/)
